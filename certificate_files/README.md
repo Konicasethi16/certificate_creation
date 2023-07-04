@@ -1,8 +1,7 @@
 # This is where the generated certificates will be stored
 
 ## certificate_p12.pfx
-The certificate, any intermediates, and the private key archived as a PFX file (PKCS12 format, generally used by Microsoft products). The data is base64 encoded (including padding), and its password is configurable via the
-
+The certificate, any intermediates, and the private key archived as a PFX file (PKCS12 format, generally used by Microsoft products). 
 
 ## certificate_pem.pem
  The certificate in PEM format. This does not include the issuer_pem
